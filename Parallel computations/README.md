@@ -6,4 +6,6 @@ Every node of comm_world group takes it's own part of simulation volume, informa
 
 All computations were made using University supercomputer Bluegene.
 
+Below you can see 2d slice of finite result animated in matlab.
+
 ![Inf image](https://github.com/DMuhayev/Portfolio/blob/master/Parallel%20computations/result.gif?raw=true)
