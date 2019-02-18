@@ -5,7 +5,7 @@ RayTracer Task:
 
 ![Image alt](https://github.com/DMuhayev/Portfolio/blob/Computer-graphics-course/Result3MyBG.png?raw=true)
 
-We've (students) been given a task to make a ray tracer to scene with a black hole with accretion disk.
+We've (students) been given a task to make a ray tracer to a scene with a black hole with accretion disk.
 
 Teacher provided us an initial solution project with ready for use classes, camera (almost) and scene.
 
