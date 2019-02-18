@@ -1,4 +1,4 @@
-Here you can see my realisation of interesting task - control of 2d drone (copter).
+Here you can see my realization of interesting task - control of 2d drone (copter).
 
 2d drone, or bicopter as I call it, is an easier model of a real quadrocopter.
 
