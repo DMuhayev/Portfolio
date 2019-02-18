@@ -3,7 +3,7 @@ Here are you can see my result tasks of computer graphics course.
 RayTracer Task: 
 [Tracer.cpp, Result2MyBG.png, Result3MyBG.png]
 
-![Image alt](https://github.com/DMuhayev/Portfolio/blob/Computer-graphics-course/Result3MyBG.png?raw=true)
+![Image alt](https://github.com/DMuhayev/Portfolio/blob/master/Computer%20graphics%20course/Result3MyBG.png?raw=true)
 
 We've (students) been given a task to make a ray tracer to a scene with a black hole with accretion disk.
 
