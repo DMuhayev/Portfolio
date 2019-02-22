@@ -4,7 +4,7 @@ Hello everyone!
 
 My name is Damir Mukhayev, I'm going to finish my study in the university this year, so I'm searching work abilities. I've made this repository to show my coding skills to world, and let potential recruters to know what I can do right now.
 
-Here are most interesting projects I made while studying in university. I really want find a great job which will allow me to improve my professional skills.
+Here are most interesting projects I made while studying in university. I really want to find a great job which will allow me to improve my professional skills.
 
 As a student I learned Pascal, assembler, C (+ MPI, OpenMP), C++ (+ OpenGL), matlab (+ simulink). 
 
